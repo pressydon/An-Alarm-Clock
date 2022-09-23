@@ -1,0 +1,36 @@
+body{
+    background: rgb(16, 16, 77);
+    text-align: center;
+    justify-content: center;
+
+}
+#alarmTime{
+    margin-top: 100px;
+    width: 400px;
+    height: 40px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: white;
+    
+}
+button:hover{
+    padding: 15px 25px;
+    background: gray;
+    transition: padding 2s;
+   
+}
+.title h1{
+    color: white;
+    font-size: 25px;
+    margin-bottom: -50px;
+    padding-top: 20px;
+}
+.title img{
+    margin-top: 50px;
+    margin-bottom: -100px;
+}
